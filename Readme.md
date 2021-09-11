@@ -38,3 +38,9 @@
 ##### Lambda trigger the email to target email address
 
 ![verification](pics/_2.png)
+
+
+
+##### Mail Receipt
+
+![verification](pics/_3.png)
