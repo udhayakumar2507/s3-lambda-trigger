@@ -30,7 +30,7 @@
 ```json
 
 {
-  "name1": ["jinojoe@gmail.com", 9894424448]
+  "name1": ["mailtoudhay25@gmail.com", 9894424448]
 }
 
 ```
