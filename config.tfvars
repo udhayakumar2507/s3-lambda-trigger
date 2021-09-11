@@ -1,0 +1,5 @@
+function_name = "test-lambda_function-name"
+emailId="jinojoe@gmail.com"
+bucket = "my-test-bucket-eu-west-1-tf"
+region = "eu-west-1"
+json_file="test.json"
